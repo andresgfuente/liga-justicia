@@ -4,4 +4,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
 ## Notas
-ESTOS CAMBIOS SON NUEVOS
+ESTOS CAMBIOS SON NUEVOS desde githubb x2
